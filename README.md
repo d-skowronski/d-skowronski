@@ -1,4 +1,5 @@
-#### 👋 Hello! I'm Dawid, a self-taught full stack developer from Poland passionate about building web applications and using Python in everyday life.
+#### 👋 Hello! 
+I'm Dawid, a self-taught full stack developer from Poland passionate about building web applications and using Python in everyday life.
 
 #### 🌱 Currently, I am learning:
 - Advanced Python/OOP
