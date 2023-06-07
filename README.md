@@ -14,7 +14,7 @@ I'm Dawid, a self-taught full stack developer from Poland passionate about build
 </p>
 
 #### 🌱 Currently, I am learning:
-- Advanced Python/OOP
+- Advanced Python
 - Best practices
 - TDD and testing
 
